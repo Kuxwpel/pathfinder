@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.css": "/pathfinder/static/css/main.09efbf91.css",
+    "main.js": "/pathfinder/static/js/main.4a3cd410.js",
+    "static/media/bg.mp4": "/pathfinder/static/media/bg.47036db280e1bc017ed2.mp4",
+    "static/media/rzeszow.jpg": "/pathfinder/static/media/rzeszow.78adecf2dc9f45efe07b.jpg",
+    "static/media/caelid2.jpg": "/pathfinder/static/media/caelid2.be15e72be7c0977a4711.jpg",
+    "static/media/stormwind2.jpg": "/pathfinder/static/media/stormwind2.9fa52f730e37785b7b43.jpg",
+    "static/media/stormwind.jpg": "/pathfinder/static/media/stormwind.924d8bc7f03d72c66df0.jpg",
+    "static/media/stormwind3.jpg": "/pathfinder/static/media/stormwind3.895309ad7dac93addf77.jpg",
+    "index.html": "/pathfinder/index.html",
+    "main.09efbf91.css.map": "/pathfinder/static/css/main.09efbf91.css.map",
+    "main.4a3cd410.js.map": "/pathfinder/static/js/main.4a3cd410.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.09efbf91.css",
+    "static/js/main.4a3cd410.js"
+  ]
+}
